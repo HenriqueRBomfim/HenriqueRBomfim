@@ -82,6 +82,4 @@
 
 <br clear="both">
 
-<img src="[https://github.com/HenriqueRBomfim/HenriqueRBomfim/blob/main/.github/workflows/snake.yml]" alt="Snake animation" />
-
 ###
